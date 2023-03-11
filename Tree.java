@@ -289,10 +289,10 @@ public class Tree {
         // t1.delete(50);
         // t1.inorder(t1.root);
         // System.out.println(t1.height(t1.root));
-        ArrayList<Integer> ans = t1.TopView();
-        for (int i = 0; i < ans.size(); i++) {
-            System.out.println(ans.get(i));
-        }
+//        ArrayList<Integer>ans=t1.TopView();
+//        for (int i=0;i< ans.size();i++){
+//            System.out.println(ans.get(i));
+//        }
 
 
     }
